@@ -1,5 +1,7 @@
 # Real Syllabics
 
+**Live:** https://real-syllabics.vercel.app
+
 A [Real Kana](https://realkana.com)-style trainer for Inuktitut syllabics (ᐃᓄᒃᑎᑐᑦ).
 
 - **Select** which syllabics to drill (by cell, row, column, or preset).
@@ -18,3 +20,7 @@ npm run dev
 ```
 
 Deploys to Vercel as a static Next.js app with no configuration.
+
+## License
+
+MIT — see [LICENSE](LICENSE). Contributions welcome, especially corrections to the character data or dialect support.
